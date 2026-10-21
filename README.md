@@ -4,13 +4,20 @@
 
 A PyTorch implementation for the paper "**On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers**" (WIFS). Demonstrates data-free watermark removal attacks on BN-based federated learning watermarking schemes.
 
-Preprint available in arXiv: 
+Preprint available in arXiv: https://arxiv.org/abs/2610.28076
 
 ## Citation
 
 If you use this code in your research, please cite the corresponding paper:
 ```bash
-@misc{ 
+@misc{rodríguezlois2026vulnerabilitiesdatafreeremovalwatermarks,
+      title={On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers}, 
+      author={Elena Rodríguez-Lois and Fernando Pérez-González},
+      year={2026},
+      eprint={2610.28076},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2610.28076}, 
 }
 ```
 
