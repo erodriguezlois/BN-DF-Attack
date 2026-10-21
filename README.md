@@ -2,7 +2,7 @@
 
 # Data-free BN watermark attack
 
-A PyTorch implementation for the paper "**On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers**" (WIFS). Demonstrates data-free watermark removal attacks on BN-based federated learning watermarking schemes.
+A PyTorch implementation for the paper "**On the Vulnerabilities and Data-Free Removal of Watermarks in Batch Normalization Layers**" (WIFS 2026). Demonstrates data-free watermark removal attacks on BN-based federated learning watermarking schemes.
 
 Preprint available in arXiv: https://arxiv.org/abs/2610.28076
 
